@@ -1,0 +1,8 @@
+{
+  "name": "jstunnel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nikky Amresh <nikkyamresh8@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
